@@ -11,6 +11,7 @@ seaborn = "*"
 ipykernel = "*"
 plotly-express = "*"
 nbformat = "*"
+dash = "*"
 
 [dev-packages]
 
